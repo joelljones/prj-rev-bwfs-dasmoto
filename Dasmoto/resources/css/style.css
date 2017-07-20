@@ -20,15 +20,15 @@ h3 {
   font-family: Helvetica;
 }
 
-.brushes {
+#brushes {
   background-color: mediumspringgreen;
 }
 
-.frames {
+#frames {
   background-color: lightcoral;
 }
 
-.paint {
+#paint {
   background-color: skyblue;
 }
 
